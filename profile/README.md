@@ -33,7 +33,7 @@ Welcome to the Custom Mechanical Keyboard Website! This platform offers a seamle
 ### Project Technical Details
 <details open>
   <summary>Click to view Technical Details SVG</summary>  
-  <img src="technical_details.svg" alt="Technical Details SVG" />
+  <img src="./technical_details.svg" alt="Technical Details SVG" />
 </details>
 
 ### Available Scripts
