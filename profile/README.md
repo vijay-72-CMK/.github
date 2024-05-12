@@ -30,9 +30,11 @@ Welcome to the Custom Mechanical Keyboard Website! This platform offers a seamle
 - **React:** Frontend library for building dynamic user interfaces.
 - **React-bootstrap:** Bootstrap components adapted for React.
 
-### Project Presentation
-
-For a detailed overview, check out the project presentation [here](https://www.canva.com/design/DAF-8AasCc0/sC_y5JmA3Sr9UOq3XirNMA/edit?utm_content=DAF-8AasCc0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+### Project Technical Details
+<details open>
+  <summary>Click to view Technical Details SVG</summary>  
+  <img src="technical_details.svg" alt="Technical Details SVG" />
+</details>
 
 ### Available Scripts
 
